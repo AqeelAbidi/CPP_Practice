@@ -70,7 +70,6 @@ void Result()
 }
 int main()
 {
-   //Habibullah........
    Result();
   
 }
