@@ -25,7 +25,7 @@ int main()
 	cout<<"Sum of two value is :"<<valueOne+valueTwo;
 	cout<<endl;
 	int choice;
-	cout<<"Please enter your choice \n 1) restart\n2) exit"<<endl;
+	cout<<"Please enter your choice \n1) restart\n2) exit"<<endl;
 	cin>>choice;
 	if(choice==1)
 	{
